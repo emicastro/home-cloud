@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/emicastro/home-cloud-server
+[submodule "client"]
+	path = client
+	url = git@github.com:emicastro/home-cloud-webapp.git
