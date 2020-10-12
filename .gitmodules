@@ -1,0 +1,6 @@
+[submodule "home-cloud-server"]
+	path = home-cloud-server
+	url = https://github.com/emicastro/home-cloud-server
+[submodule "server"]
+	path = server
+	url = https://github.com/emicastro/home-cloud-server
